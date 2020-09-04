@@ -1,2 +1,2 @@
 # responsive-design
-Este proyecto fue maquetado el HTML y CSS para aprender bases sobre diseño adaptable
+Este proyecto fue maquetado en HTML y CSS para aprender bases sobre diseño adaptable
